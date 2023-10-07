@@ -27,7 +27,7 @@ function loadTable() {
 
   function showUserCreateBox() {
     Swal.fire({
-      title: 'Create user',
+      title: 'Create boss',
       html:
         '<input id="id" type="hidden">' +
         '<input id="nombre" class="swal2-input" placeholder="JEFE">' +
